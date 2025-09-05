@@ -1,13 +1,13 @@
 # Analysis-of-Myntra-Apparel
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes Myntra apparel product data using **Excel functions** for **data cleaning, preparation, analysis, and retrieval**.
 The goal is to gain insights into product pricing, discount strategies, and customer preferences.
 
 ---
 
-## 🛠️ Key Steps
+##  Key Steps
 
 ### 1. **Data Cleaning & Preparation**
 
@@ -33,14 +33,14 @@ The goal is to gain insights into product pricing, discount strategies, and cust
 
 ---
 
-## 📂 Files in this Repository
+##  Files in this Repository
 
 * `Analysis of Myntra Apparel.pdf` → Project report & documentation.
 * Dataset(https://drive.google.com/file/d/1CDaWFvkccjdUw1E_gipTKOfMqiHNhNQL/view)
 
 ---
 
-## 🚀 Tools & Techniques Used
+##  Tools & Techniques Used
 
 * **Excel Functions**: Remove Duplicates, IF, COUNTIFS, VLOOKUP, XLOOKUP, INDEX-MATCH.
 * **Data Cleaning**: Standardization, null handling, error removal.
@@ -48,7 +48,7 @@ The goal is to gain insights into product pricing, discount strategies, and cust
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * Products with **ratings > 4** tend to have a higher average original price.
 * A significant number of items have discounts **greater than 50%**, making Myntra a highly **discount-driven platform**.
@@ -56,9 +56,9 @@ The goal is to gain insights into product pricing, discount strategies, and cust
 
 ---
 
-## 🙌 Author
+## Author
 
-👩‍💻 **Disha Sindhi**
+ **Disha Sindhi**
 
 * 📧 Email: [dishasindhi7@gmail.com](mailto:dishasindhi7@gmail.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/disha-sindhi-b0092732a/)
@@ -67,4 +67,4 @@ The goal is to gain insights into product pricing, discount strategies, and cust
 
 ---
 
-✨ *This project demonstrates how Excel can be used for data analytics in e-commerce, focusing on Myntra’s apparel dataset.*
+ *This project demonstrates how Excel can be used for data analytics in e-commerce, focusing on Myntra’s apparel dataset.*
