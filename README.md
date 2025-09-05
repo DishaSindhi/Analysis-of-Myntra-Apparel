@@ -36,7 +36,7 @@ The goal is to gain insights into product pricing, discount strategies, and cust
 ## 📂 Files in this Repository
 
 * `Analysis of Myntra Apparel.pdf` → Project report & documentation.
-* (Optional: You can also add your **Excel/CSV dataset** here if you want others to try it out.)
+* Dataset(https://drive.google.com/file/d/1CDaWFvkccjdUw1E_gipTKOfMqiHNhNQL/view)
 
 ---
 
@@ -62,7 +62,7 @@ The goal is to gain insights into product pricing, discount strategies, and cust
 
 * 📧 Email: [dishasindhi7@gmail.com](mailto:dishasindhi7@gmail.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/disha-sindhi-b0092732a/)
-* 📂 [Portfolio](https://www.wscubetech.com/portfolio/data/disha-sindhi?u=lBGXFV4DBVdMXjl7KvYXfQ==)
+* 📂 [Portfolio](https://www.wscubetech.com/portfolio/data/disha-sindhi-rsk7ymi)
 * 💻 [GitHub](https://github.com/DishaSindhi)
 
 ---
