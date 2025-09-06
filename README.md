@@ -36,7 +36,7 @@ The goal is to gain insights into product pricing, discount strategies, and cust
 ##  Files in this Repository
 
 * `Analysis of Myntra Apparel.pdf` → Project report & documentation.
-* Dataset(https://drive.google.com/file/d/1CDaWFvkccjdUw1E_gipTKOfMqiHNhNQL/view)
+* Dataset → [Analysis-of-Myntra-Apparel](https://drive.google.com/file/d/1CDaWFvkccjdUw1E_gipTKOfMqiHNhNQL/view)
 
 ---
 
@@ -60,11 +60,8 @@ The goal is to gain insights into product pricing, discount strategies, and cust
 
  **Disha Sindhi**
 
-* 📧 Email: [dishasindhi7@gmail.com](mailto:dishasindhi7@gmail.com)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/disha-sindhi-b0092732a/)
-* 📂 [Portfolio](https://www.wscubetech.com/portfolio/data/disha-sindhi-rsk7ymi)
-* 💻 [GitHub](https://github.com/DishaSindhi)
+*  Email: [dishasindhi7@gmail.com](mailto:dishasindhi7@gmail.com)
+*  [LinkedIn](https://www.linkedin.com/in/disha-sindhi-b0092732a/)
+*  [Portfolio](https://www.wscubetech.com/portfolio/data/disha-sindhi-rsk7ymi)
+*  [GitHub](https://github.com/DishaSindhi)
 
----
-
- *This project demonstrates how Excel can be used for data analytics in e-commerce, focusing on Myntra’s apparel dataset.*
